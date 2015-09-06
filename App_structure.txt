@@ -1,0 +1,34 @@
+
+
+Client side - customer app 
+
+
+Switch - Takes your location
+
+It pings server - with that location - server returns the nearest 10 drivers (radius later) — whether locus or lat/long or something else
+
+
+User selects a driver - driver gets a notification? or we schedule it? - regardless, server pings back with a confirmation boolean variable - user gets a confirmation screen - with all details  - go back to home screen
+
+
+Once its confirmed - customer can view his pending rides - he can book multiple rides - 
+
+Ride will start when driver clicks ride started - Once a ride is going on - Current ride time and cost ?
+
+
+
+
+
+Driver tables:
+
+Details - Profile, rating, 
+
+Current Status - Location, 
+
+Past rides - history, 
+
+
+Master Drivers table: 
+
+All drivers, their location, current status - server looks up 10 nearest - returns to the customer app with JSON object array (of driver details - location, profile, ratings, contact details, etc)
+
