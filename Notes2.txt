@@ -1,0 +1,5 @@
+ Login (email, pwd)
+	Register (name, number, email, pwd, car type) + social (later) 
+	Forgot password 
+Navigation drawer - existing nav
+Fare chart API end point

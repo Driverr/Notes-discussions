@@ -1,0 +1,60 @@
+Front End developer’s introduction:
+
+This document is not a tutorial or an exhaustive list. It’s a brief introduction to the technologies we use, how to set these up and some important points that are of note.
+
+Technologies needed:
+
+node (+ npm), brew, ember, ember-cli, sublime text (recommended), chrome, ember inspector for chrome, git, iterm, ohmyzsh, slack, evernote, 
+
+
+Setting up tech:
+
+First get Brew -
+Then use Brew to install Node - V.Imp.
+This is the only way to install npm w/o sudo binding necessary. 
+
+Install ember - npm install -g ember-cli 
+
+Install watchman - brew install watchman
+
+(Install phantomjs for command line tests - optional)
+
+Install sublime text + important add ons - package manager, sublime linter, color picker + highlighter, handlebars templates, 
+
+Get latest Chrome + ember inspector for Chrome add-on. The ember inspector can be found in the last tab of the Developer Tools (cmd+opt+i)
+
+Get git and link it to your account (two step verification, ssh keys, etc)
+
+Get iTerm and a nice theme for it. Get Ohmyzsh for iterm. Ensure its using the git bindings and showing branches and everything. 
+
+Get slack, evernote, asana, telegram accounts - access from ani, rajneesh, deepak, etc
+
+
+JS/Ember notes:
+
+First, brush up Javascript concepts. Understand the JS event loop - what is V8 (the Chrome runtime), what are Web APIs, what is the call back queue and how these are all related to each other and the event loop. 
+
+Look at this - https://www.youtube.com/watch?v=8aGhZQkoFbQ
+Read this - http://stackoverflow.com/questions/779379/why-is-settimeoutfn-0-sometimes-useful?rq=1
+
+Another good resource for brushing up JS concepts about objects, functions, inheritance, etc is: http://www.lshift.net/blog/2006/07/24/subclassing-in-javascript-part-1/
+
+One should also have a working knowledge of JQuery since we’ll be using it from time to time. See http://api.jquery.com/ for the definitive list of all JQuery functions.
+
+Another important thing is to get acquainted with ECMAScript6 (ES6 in short). This is the new syntax for implementing JS and it introduces a lot of new features, some of which are quite powerful. We use Babel which is an ES6 transpolar which converts the syntax to ES5 if needed and then compiles it. We use a couple features and are incorporating more and more with every line we write. The most commonly used features for us include: one liner, 
+https://babeljs.io/docs/learn-es2015/
+
+
+Coming to Ember - 
+
+First start off with the official docs - Go through the ember docs and tutorial at: http://guides.emberjs.com/v1.13.0/
+
+Testing:
+
+Assertions and Helpers
+
+Assertions:
+
+ 
+
+

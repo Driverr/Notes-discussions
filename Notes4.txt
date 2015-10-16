@@ -1,0 +1,23 @@
+login:-
+
+email (no.), pwd
+
+
+
+res: true/false - login
+response: error login (number doesn’t exist/pwd incorrect)/successful 
+id: String
+
+
+idle screen -
+
+(online/offline check)
+
+regid: (gcm id)
+lat:
+lng:
+id:
+idle: 0/1
+
+
+(use regid to ping 

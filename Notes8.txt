@@ -1,0 +1,6 @@
+User onboarding:
+
+Principles - 
+
+Tell the user what the product is doing with information or while he is waiting
+Whenever possible, give the user the choice between entering less sensitive information and more sensitive information

@@ -1,0 +1,325 @@
+
+
+Driv3rrApp123
+
+Drivers’ eyesight testing
+
+
+ CallDriver:
+
+Idea validation:
+Drivers - done
+Agents - done
+Customers - ?
+
+
+MVP:
+app facing customers only or drivers also
+call routing to agents? 
+agent app/ driver app?
+
+
+(Later - college volunteers)
+
+
+Initial branding - cap with logo
+
+
+Business questions: 
+initial demand - from channels like designated drivers and weekend drivers
+
+
+free designated drivers for new/upcoming 
+
+MVP hurdles:
+Pubs give initial push - let customers get free driver by installing app
+How do we provide for all customers? - external drivers
+
+Initial cost of free drivers for night time customers? - 25k (50 drivers) * 18 pub days
+
+
+Justdial - paid listing for MVP
+
+
+Excess supply from car agents - adequate demand from users
+
+aggregate supply demand?
+
+
+talk to pubs over a month - get feedback from management - 15
+how many clients use the call drivers
+take call after weekend - for next week
+
+
+
+
+Future ideas:
+
+-> Inter city rides like Blah Blah Cars - driver alone for car pooling people 
+
+-> 
+
+
+  
+
+Pubs met:
+
+
+RockBottom pub - 
+
+Kunal: what’s in it for me? 
+
+ Tues/Wed follow up. 
+-> Wednesday 
+
+
+Harry’s pub -
+
+Spoke on the phone with Jay Khambatta - wants app details on email and play store
+-> Call on wednesday and meet on Thursday 
+
+
+Alfredo, Caprice and Templeflower -
+10 to 6 anyday call and come. 
+-> Wednesday
+
+
+Sheesha restaurant - 
+Shritej said come any day in the afternoon. 
+But Dilip is the decision maker. 
+-> Wednesday
+
+
+Ontoes - 
+Met Rocky. 
+Anyday  at 12 noon or later in the afternoon
+-> Wednesday
+
+
+Gazali at Vile Parle - 
+Meet Santosh Singh there 
+-> Wednesday
+
+
+-> Malls - Paladium (High Street Pheonix), Inorbit, Oberoi 
+Nikita call? 
+
+
+
+——————————————————————————————————————————-----------------
+
+Jai Ambe - On demand valet service - 800 drivers - event management companies have spikes - weekend sales and all?
+
+Papillon drivers - have 3000 drivers
+——————————————————————————————————————————————————
+
+Valet service:
+
+
+-> Free pickup and drop from shopping centres, malls, restaurants, pubs, etc - especially weekends, sale days and posh shopping places
+
+
+——————————————————————————————————————————————————
+Pubs:
+Customers don’t know about drive home part at club
+Enable valet discovery for customers through app - ease of booking also 
+SMS valets with customer’s name and number and pickup time
+
+
+Restaurant: 
+Going back home from restaurant
+
+——————————————————————————————————————————————————
+
+
+Monetary:
+
+Driver’s typical salary - Rs. 12,000
+Temp driver rate - Rs. 600-800 for 5/6 hrs.
+
+
+Ideally pricing: 
+
+Rs.100 per hr. + public transportation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Summary - Driverr provides an on demand chauffeur, driver or valet service for customers who want to use 
+their own car. Driverr allows the user (customer) to discover drivers near them based on a real time location 
+discovery service. They can view a detailed profile of the driver's past drives inclduing customer feedback, and then 
+book someone they feel would best suit their car and preferences. 
+
+
+
+
+Team Members - Hari Krishnan (current designation), Shivalik Sen (Software Developer at Codigami Labs), Hardik Shah(current designation)
+
+
+Customer pain point and solution - Currently the only way to book a driver or chauffeur for a customer, is to get an
+agent's number, call them up and ask for a driver. Customers are at the mercy of these agents to send them a reliable driver
+and it often takes very long for the driver to reach the customer, as this model is not location efficient. Further
+
+Business Model - ?
+
+
+
+Market Size - The size of the private transportation sector in India is huge (last year there were 1.87 million sales in India) and the number grows at 5% per year. A decade ago one car per family was the norm, now it is two-three. 
+
+
+Revenue Model - Transactions through app, as in Ola model. Drivers get majority of the share of the ride fare. Agents get a percentage of the remaining, if driver signed up through an agent. Rest of the fare is our revenue. Typical rates can start from: Rs. 99/hr during the day and Rs. 199/hr during the night. 
+
+
+Competitiors - There is one online competitor in our exact segment, DriveU , based out of Bangalore. They just launched with 50 drivers only. Offline, there are innumerable agencies which are listed on Just Dial and other listing sources, but since we plan to utilise these agencies, they are not competitors but synergising resources for us.
+
+email id: shvlksen@gmail.com
+
+Contact number - 09874989574
+Driver trust - verification, PI, social capital (numbers of family/refs)
+
+
+What are we about? Who are my customers? What sustained difference do we bring about in their lives? 
+
+Assumptions questioned: Will agents push it to customers? Will they give the customer database? How bad will the customer conversion rates be? How about drivers/agents incentivised per customer signing up? Value Prop to the AGENT?! 
+
+Will the agent make more money? Is that quantifiable? 
+
+Drivers will have android phone? 
+
+How tech savvy are the driver class people actually? 
+
+
+
+*Trip time start and end only - just a timer 
+
+
+—————————————————————————————————————————————————————————
+
+Raja Kaku’s points:
+
+
+Value added services - 
+
+Partnership with Indian Oil/Hindustan Petroleum - loyalty points for drivers - similar to what office secretaries do while booking rooms for bosses - have a Driverr card which will pay for fuel/rooms/food/tolls
+
+Look at creating a gateway for drivers - for value added services like RTO, insurance, servicing, driving teaching
+
+Look at HCV’s - gadgey patil , trucking companies
+
+Look at tying up with Navi Mumbai Wholesale Market - driver supplying - sign an MOU 
+
+Till 18 months - granular plan - target markets, cities, - marketing - entire ecosystem - make the driver the centre of all the action - think of everything and everybody else around the driver - 
+
+Look at MOUs with BlaBlaCars, etc - even a positive reaction will do - Ola, Uber, etc
+
+Show the strong tech background in the plan - for future proof tech which is solution agnostic
+
+
+0-6 months - few agents and few B2b
+
+6-18 - all VAS
+
+18-36 - geographical penetration
+
+36-72 - gateway/card, technical solutions and PAAS
+
+
+Look at one investor from the transport sector 
+
+Insurance + Oil + Loans + other VAS - major income 
+
+Think of the driver not as the end point - but as the starting point - the driver can take the car to many places 
+
+The guy who needs a driver can be passengers, truck owners, taxi fleet owners,  - segments: HCVs, LCVs, all other segments
+
+India is a logistics hungry country - drivers needed for ALL LOGISTICS 
+
+—————————————————————————————————————————————————————————
+
+
+Client side - customer app 
+
+
+Switch - Takes your location
+
+It pings server - with that location - server returns the nearest 10 drivers (radius later) — whether locus or lat/long or something else
+
+
+
+Driver tables:
+
+Details - Profile, rating, 
+
+Current Status - Location, 
+
+Past rides - history, 
+
+
+Master Drivers table: 
+
+All drivers, their location, current status - server looks up 10 nearest - returns to the customer app with JSON object array (of driver details - location, profile, ratings, contact details, etc)
+
+
+User selects a driver - driver gets a notification? or we schedule it? - regardless, server pings back with a confirmation boolean variable - user gets a confirmation screen - with all details  - go back to home screen
+
+Ride Later - Manually handle - take an order and send confirmation message and call him up 
+
+One way trip check - checkbox on driver app?
+
+Coupon code - on customer app (simple text box with validation)
+
+
+Initially customers will prefer phone calls for confirmation!!
+
+
+
+Once its confirmed - customer can view his pending rides - he can book multiple rides - 
+
+Ride will start when driver clicks ride started - Once a ride is going on - Current ride time and cost ?
+
+
+
+
+
+
+
+
+
+10 + (10-15) + (10-15) + (15-20) + (40-50) + (5-10)
+
+
+
+
+——————————————————————————————————————————————————————————————————————
+
+12-19th: Sign up 2 agents, 20 drivers - first 20 rides over the 17th weekend
+20th - 27th: Sign up 2 more agents, 20 more drivers - next 50-80 rides
+
+
+
+
+——————————————————————————————————————————————————————————————————————
+
+
+Heading with Driverr, followed by Select Pickup Location.
+Break up Select Pickup Location and Select Time into 2 steps so that people know its a 2 step thing
+Better error messages for date/time
+Better Action button text (Get Driver -> Confirm booking)
+
+
+
+
+
+

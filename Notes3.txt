@@ -1,0 +1,23 @@
+uber -
+
+1) blue dot ping screen
+2) background video + sign in btn + register btn
+2.1) sign in - connect with fb + email/pwd combo + forgot password 
+
+2.1.1 connect with fb - authorise uber - signs in with first/last name, dp and email - ask for mobile - add payment screen - add card by scanning
+
+(email already exists error - but i was signing in through fb - what is the problem? maybe number did not match? no, it was fb apparently? ) weird shit here
+
+2.1.2 entered email and pwd - wrong pwd - reset pwd sent to email - see screenshot for email format and api call - reset link takes me to login.uber.com with form to enter a new pwd (min 5 letters) but no confirm pwd input which means typos not ruled out (problem here ) - after logging in gives option to login as a driver or user to web dashboard - web dashboard has profile status bar (add credit card, verify mobile, verify email checkboxes), my trips, profile, payment, free rides (referral codes), logout and language options
+
+
+
+2.2) register - connect with fb + email/mobile/pwd + we use your email and mobile to send you ride confirmations and e-receipts
+
+2.2.1 - connect with fb - authorise uber - gets dp + first/last name + email + ask for mobile  -> account already exists because email address already exists. please sign in. 
+
+2.2.2 - entered email, mobile, pwd - create profile - dp + first/last name 
+add payment screen - options: credit/debit card + airtel money + paytm + cash
+
+
+
